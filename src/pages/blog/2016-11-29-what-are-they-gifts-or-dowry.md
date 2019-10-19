@@ -1,0 +1,25 @@
+---
+templateKey: 'blog-post'
+title: 'What are they – gifts or dowry?'
+author: mini.asthana
+featuredpost: false
+date: 2016-11-29T09:55:55+00:00
+tags:
+  - Blog
+  - Social
+---
+**What are they – gifts or dowry?**
+
+‘What are you giving her for the wedding? What are you giving your son in law for the wedding? What will my daughter in law, be getting from her lovely parents on her big day? What are we getting for your daughters special day? The gift given to her in laws must be very costly and exceptional, so that she leads a peaceful life. Do not forget to buy presents for all the extended family members of the groom’s side, so that they welcome and accept your daughter from the bottom of their heart. Are you planning to bring your son in law home in the already existing car or going to buy a new one for him? Have you already bought a house in her name, in future god forbid, if something happens, both your daughter and son in law must have a shelter to stay. Do not cross question the groom’s parents or any other family members. If not, they will keep taunting your daughter for the rest of the life’.
+
+A thousand more interrogations and myriads of caveats, strikes the bride’s parents like a thunder before the storm. It is imperative to read between those lines. It is important to comprehend the intentions, behind these highly persuasive simple statements, made with a fake gesture of concern and big smile. Do you think, they are another set of gifts, given as a token of expression of love and happiness? If you are assuming so, then you are in an imaginary world.
+
+Even today, nobody questions regarding the educational qualification, professional domain or the character of the groom. Nobody questions the salary that the groom earns. The savings that he has in his bank. Is he independent or surviving on the fruits of the parents? Does the outlook to life of both the bride and groom, find a middle ground? Is groom’s background verification done? No. No such actions are taken to safeguard the life of the bride. The bitter truth is, that, these social statements are meekly yet polished style of asking and giving dowry in a wedding.
+
+The undeniable fact is that, dowry in India is like the philosophy of barter system, deeply rooted in our blood, irrespective of caste and religion. Dowry is a silent and unwritten threat given to the bride’s parents as a prerequisite of the wedding. Dowry is an accepted clause of the wedding proposal. Not just in rural areas, but also, in the so called modern developed urban regions. The minute the priest fixes the so called auspicious date of the wedding, such questions are openly conversed without any hesitation. The well-educated groom, earning a lump sum amount of salary, witnesses such settings, without raising any questions and munching tasty snacks offered by the bride’s family.
+
+As per the findings of the National Crime Records Bureau, there are approximately 8455 registered cases of dowry deaths in the country in 2014. There are 10050 cases registered under the Dowry Prohibition Act, 1961. These are just numbers having zero impact on us, in our day to day life. Our blood doesn’t boil anymore. The practice of dowry has become very common in our society, that, it is no more fatal in the Indian society. It has been an accepted ritual of the wedding preparations, which no one really wants to sojourn the brutal practice. Actually, we have accepted as a part and parcel of the Indian society. We witness it without any condemnation. We feel that our small step cannot eradicate the undying virus of the society. We act ignorant to such settings and allow the practice of dowry to ruin our lives.
+
+Humans are born with an innate capability to question and seek answers. Just that we do not use this innate capability at the right place and allow the wrong to happen. The bride’s parents can do whatever makes them happy. But they have to stop the discussion to seek the relationship, if any, statements and questions are challenged by the groom’s family. Today the statements will be addressed in the polished way. Tomorrow, after wedding, these questions will switch into blatant demands, bruising all the relationships, if unfulfilled. The groom must speak up, stopping all such brutal activities of his parents, and stop acting like a puppet. Above all, the bride has to step up with sheer confidence and deliberate intentions of showing a dowry free society.
+
+The young guns of India have to come back from their assumed world and remain vigilant. Just like how one cell takes its due course to turn into a fully developed life, small baby steps are needed towards exterminating the dreadful virus of the society. The virus is brutal, massacring thousands of lives. Beyond education, the change of attitude, both in beliefs and action, is the mandatory vaccination to cure this disease. If not addressed now, the upcoming generations are going to be the sure shot preys of this disease.
