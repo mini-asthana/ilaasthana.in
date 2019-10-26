@@ -1,0 +1,18 @@
+---
+templateKey: blog-post
+title: Current scenario of the Indian Power sector
+author: mini.asthana
+type: post
+date: 2013-09-15T09:02:49+00:00
+url: /2013/09/15/power-crisis/
+categories:
+  - Work
+
+---
+<img src="https://i2.wp.com/ilaasthana.in/wp-content/uploads/2013/09/GreenMountainWindFarm_Fluvanna_2004-1024x680.jpg?resize=640%2C425" alt="GreenMountainWindFarm_Fluvanna_2004" width="640" height="425" class="aligncenter size-large wp-image-323" data-recalc-dims="1" /><p align=justify>The energy availability in the India has increased by 5.6% in 2010-11, while the highest demand met has increased by 6% in the same period. Despite the increase in availability, India faced an energy deficit of 8.5% 2010-11. It is anticipated that the energy deficit will rise to 10% in 2011-12.</p> <p align=justify>Electricity has been part of our lives. Life would seem so hard without it. The consumption of electrical power can be classified such as residential sector which includes private apartment buildings; commercial sector comprises non manufacturing business institutions, industrial sector and the last transportation sector. </p> <p align=justify>The hunt for auxiliary electric energy sources all over the world and no exception with India can be traced to the last few decades. The energy supply position is rather alarming world over. India is no exception. In India, the current scenario states that fossil fuels like coal, petroleum and natural gas have been mined and explored in large volumes and with total disregard to future generations. India has been making special efforts for an Iran-Pakistan-India gas line, signing agreements with other countries. The Indian power sector has achieved a lot over the last decade in the areas of policy reforms, private sector participation in generation and transmission, new manufacturing technology and capabilities, but there is still much to achieve and a number of challenges to overcome before the opportunities can be leverage</p> <p align=justify>According to sources, major threats faced by Indian power sector over a period of time, are shortage in coal supply, irregular gas supply, need of encourage assurance in nuclear based power generation, securing quick land and clearances for the development of project, issues relating to competitive bidding, project execution challenge, change in regulation in transmission sector, and competition from International market.</p> <p align=justify>In India, we are dependent on thermal power generation to the extent of 85 percent. Nuclear and hydel power generation were developed as alternatives to coal and natural gas. A special strategy is, therefore required to improve the share of hydel and nuclear use. The inter-linking of rivers to produce hydel power on a national scale has also been launched. An aggressive energy policy is necessary to achieve this breakthrough. </p> <p align=justify>Some of the steps that can be taken to conserve energy are strong growth in generation capacity led by per capita consumption, urbanization, alternate sources of energy, investment in clean technology, and opportunity in power evacuation; bridge the gap in manufacturing capacity along with the awareness about the minimal consumption and maximum benefits etc. </p> <p align=justify>If India can discipline its energy policy and follow a holistic approach, we will be able to save our own environment and become better than many developed nations. It is the responsibility of the common man along with government, researchers, manufacturers and the policymakers to address this problem and set ambitious, achievable goals. </p> 
+
+## Source
+
+  * [PWC report][1]
+
+ [1]: http://www.pwc.in/assets/pdfs/publications-2011/wec-pwc-report.pdf
