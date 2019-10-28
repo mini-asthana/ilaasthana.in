@@ -59,9 +59,12 @@ const BlogPost = ({ data }) => {
   const { markdownRemark: post } = data
   let disqusConfig = {
     identifier: post.id,
-    title: post.title,
-    url: 'https://ilaasthana.in/',
+    title: post.frontmatter.title,
+    url: 'https://peaceful-brown-bb65e1.netlify.com/blog/2019-01-11-when-your-perspective-changes-happiness-puts-on-different-clothes/'
   }
+  console.log(disqusConfig);
+  console.log(data);
+  console.log(post.fields);
   return (
     <Layout>
       <BlogPostTemplate
@@ -98,6 +101,9 @@ export const pageQuery = graphql`
     markdownRemark(id: { eq: $id }) {
       id
       html
+      fields {
+        slug
+      }
       frontmatter {
         date(formatString: "MMMM DD, YYYY")
         title
